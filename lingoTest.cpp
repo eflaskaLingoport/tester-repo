@@ -1,12 +1,6 @@
 #include<iostream>
 #include <fstream>
 #include <string>
-using namespace std;
-int main()
-{
-    #include<iostream>
-#include <fstream>
-#include <string>
 #include <chrono>
 #include <ctime>
 using namespace std;
